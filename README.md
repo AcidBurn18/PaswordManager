@@ -8,3 +8,5 @@ Finally, you save time by not having to reset your passwords when you forget the
 
 Hence we have tried to create a simple password manager which will store the passwords in the database and retrieve it when the user wants so that one need not to worry about remembering the passwords.
 
+Software required:-
+python 3 installed  https://www.python.org/downloads/
